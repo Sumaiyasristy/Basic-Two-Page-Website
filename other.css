@@ -1,0 +1,33 @@
+body{
+    background-color: darkgray !important;
+}
+.price{
+    background-color: steelblue;
+}
+.card{
+    padding-top: 2%;
+    padding-bottom: 5%
+}
+
+.lorem{  
+background-color: navy;
+    text-align: center;
+    
+}
+.buy{
+    text-align: center;
+    text-transform: uppercase;
+    background-color: tomato;
+    width: 15%;
+    display: flex;
+    border: 1px solid white;
+    
+
+}
+footer{
+    background-color: slateblue;
+}
+.contact{
+    padding-left: 5%;
+}
+
